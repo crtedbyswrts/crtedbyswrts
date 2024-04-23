@@ -7,12 +7,12 @@ Web :
 * HTML - CSS
 * PHP - SQL
 
-Programmtion :
+Programmation :
 
 * LLM 
 * Python
 
 📫 Contact
 
-* LinkedIn : Truong Vü
+* LinkedIn : truongvux
 * Email : sonvutruong2002@gmail.com
