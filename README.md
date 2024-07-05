@@ -1,4 +1,4 @@
-Im Truong Son VU 
+Im Truong Son VU 👈🏻
 Im curently student of Ecole Iris 1st year 👋
 
 💻 Language & Technologie
